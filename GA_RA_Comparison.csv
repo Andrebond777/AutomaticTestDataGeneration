@@ -1,0 +1,6 @@
+Population size,Mean iterations GA,Mean iterations RA,Elapsed Time ms GA,Elapsed Time ms RA
+0,22,16,4,1
+1,44,48,4,3
+2,82,155,12,40
+3,169,850,88,1007
+4,232,7135,391,32853

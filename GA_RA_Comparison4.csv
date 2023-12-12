@@ -1,0 +1,8 @@
+Size limit of numbers,Mean iterations GA,Mean iterations RA,Elapsed Time ms GA,Elapsed Time ms RA
+64,3,19,0,0
+512,22,57,1,2
+4096,77,228,10,36
+32768,138,1335,74,1416
+15625,112,789,42,433
+78125,146,3788,157,8241
+131072,194,5187,327,21756
